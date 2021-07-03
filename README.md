@@ -172,40 +172,39 @@ For every bank NNPA ratio has decreasing trend with increase in consumer price i
 _________________________________________________________________________________________________________________________________________
 
 ## HYPOTHESIS TESTING
-We made certain conclusion based on graphs between certain attribute for banks belonging to various categories.
 
-Let's see validity of those conclusion with hypothesis testing
+![1](https://user-images.githubusercontent.com/76644910/124344688-6a2f0600-dbf1-11eb-8576-5fe9f96cd973.JPG)
 
-Hypothesis Statement: - With Government ownership in bank loan monitoring become ineffective.
+![2](https://user-images.githubusercontent.com/76644910/124344691-6c916000-dbf1-11eb-9e5c-716c9512dd55.JPG)
 
-H0:(μ1<=μ2 )
+![3](https://user-images.githubusercontent.com/76644910/124344694-71eeaa80-dbf1-11eb-81af-61dee8e30f95.JPG)
 
-H1:(μ1>μ2 )
+![4](https://user-images.githubusercontent.com/76644910/124344679-64392500-dbf1-11eb-9f12-eb1ce35405c8.JPG)
 
-where  μ1  = mean NNPA ratio for Public Sector Banks and  μ2  = mean NNPA ratio for Private Sector Banks
+_________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________
+![1](https://user-images.githubusercontent.com/76644910/124344792-2a1c5300-dbf2-11eb-8309-20f5141400d5.JPG)
 
-Sample statistics
+![2](https://user-images.githubusercontent.com/76644910/124344796-2d174380-dbf2-11eb-8d7b-69f341de3c39.JPG)
 
-x1  = sample mean of NNPA ratio for Public Sector Banks
+![3](https://user-images.githubusercontent.com/76644910/124344798-30123400-dbf2-11eb-937c-d08c7caac4d3.JPG)
 
-x2  = sample mean of NNPA ratio for Private Sector Banks
+_________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________
 
-s1  = sample standard deviation of NNPA ratio for Public Sector Banks
+![1](https://user-images.githubusercontent.com/76644910/124344909-0b6a8c00-dbf3-11eb-89db-11c2174f71d0.JPG)
 
-s2  = sample standard deviation of NNPA ratio for Private Sector Banks
+![2](https://user-images.githubusercontent.com/76644910/124344911-0dcce600-dbf3-11eb-8ff2-5b6ea11d9e15.JPG)
 
-n1  = sample size for Public Sector Banks
+![3](https://user-images.githubusercontent.com/76644910/124344913-10c7d680-dbf3-11eb-9172-a1f1ce1e9f10.JPG)
 
-n2  = sample size for Private Sector Banks
+_________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________
 
-Calculation @ significance level of 5% i.e.α=0.05 
+![1](https://user-images.githubusercontent.com/76644910/124344987-8fbd0f00-dbf3-11eb-975d-818fc8df7cd7.JPG)
 
-We will do purposive sampling for this hypothesis testing as there are some bank which must be included in sample and some bank got merge with others. We will include those banks which were in operation between the year 2016-2020 and data between these year will be taken
+![2](https://user-images.githubusercontent.com/76644910/124344992-9481c300-dbf3-11eb-859b-a3b336556706.JPG)
 
-Here we have sample statistics so we will apply t-test
 
-$t_{test} = \frac{(x_1-x_2)}{\sqrt{(s_1^2/n_1+s_2^2/n_2^2)}}$
 
-It's a right tail  t$\ -$ test. 
 
-For dof = 208 and $\alpha=0.05$ $,\space  t_{table} $ = 1.645
