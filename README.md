@@ -26,51 +26,59 @@ Data Source:
   Data Set contain 37 columns and 1422 rows containing data of Public Sector, Private Sector, Foreign Bank Group, Small Finance Bank and Paytm Banks data from the year 2005 to     2020
   Analysis was focused on the data ranging from year 2007 to 2020 of Public Sector and  Private Sector bank group. Additionaly we added bank group, cpi and repo rate data.
   The NNPA ratio was divided into 3 brackets Low(<1%), Midium(1%-2%) and high(>2%)
+_________________________________________________________________________________________________________________________________________
   
   ## Univariate Analysis
   
   ![1](https://user-images.githubusercontent.com/76644910/124307118-fa833180-db84-11eb-864a-589fa21a727d.png)
 
-53.31% banks in our dataset are Public Sector banks and 46.69% are Private Sector Banks
-\
-\
-\
+ 53.31% banks in our dataset are Public Sector banks and 46.69% are Private Sector Banks
+_________________________________________________________________________________________________________________________________________
+
 ![2](https://user-images.githubusercontent.com/76644910/124307252-2d2d2a00-db85-11eb-80e9-97eddd7100e2.png)
 
-37.38% nbanks have high NNPA ratio, 24.61% banks have midium NNPA ratio, 38.01% banks low NNPA ratio
-\
-\
-\
+ 37.38% nbanks have high NNPA ratio, 24.61% banks have midium NNPA ratio, 38.01% banks low NNPA ratio
+_________________________________________________________________________________________________________________________________________
+
   ![3](https://user-images.githubusercontent.com/76644910/124307317-4b932580-db85-11eb-9dce-fc75e9084284.png)
 
-V6,V10, V22,V23, capitalMarketSector_adv, realEstateSector_adv are heavily skewd data.
-Target variable V36 is also right skewed
-\
-\
-\
+ V6,V10, V22,V23, capitalMarketSector_adv, realEstateSector_adv are heavily skewd data.
+ 
+ Target variable V36 is also right skewed
+_________________________________________________________________________________________________________________________________________
+
   ![4](https://user-images.githubusercontent.com/76644910/124307475-809f7800-db85-11eb-8d30-960e98865255.png)
 
-'V12'(Ratio of interest income to total assets) ,
-'V13'(Ratio of net interest income to total assets (Net Interest Margin)) ,
+'V12'(Ratio of interest income to total assets),
+
+'V13'(Ratio of net interest income to total assets (Net Interest Margin)),
+
 'V14'(Ratio of non-interest income to total assets)
-Median of interest income is thrice the median of non interest income
-\
-\
-\
+
+ Median of interest income is thrice the median of non interest income
+_________________________________________________________________________________________________________________________________________
+
   ![5](https://user-images.githubusercontent.com/76644910/124307605-b0e71680-db85-11eb-8dd3-a378bf01e1c6.png)
 
-'V27'(Return on Advances) ,
-'V28'(Return on investments) ,
-Clearly return on advances has higher range compared to return on investment
-\
-\
-\
-  ![6](https://user-images.githubusercontent.com/76644910/124307856-0d4a3600-db86-11eb-94d8-e215c4df6006.png)
+'V27'(Return on Advances),
 
-'V8'(Ratio of priority sector advances to total advances)
-'V9'(Ratio of term loans to total advances) ,
-'V10'(Ratio of secured advances to total advances)
-Overall banks give more secured loans and least loan to priority sectors
+'V28'(Return on investments),
+
+ Clearly return on advances has higher range compared to return on investment
+_________________________________________________________________________________________________________________________________________
+
+![6](https://user-images.githubusercontent.com/76644910/124342925-4f569480-dbe5-11eb-8f1d-589e5966dc20.png)
+
+'V8'(Ratio of priority sector advances to total advances),
+
+'V9'(Ratio of term loans to total advances),
+
+'capitalMarketSector_adv'(Ratio of Capital Market Sector advances to total advances),
+
+'realEstateSector_adv'(Ratio of Real Estate Sector advances to total advances).
+
+ Overall banks give more Real Estate Sector and least to Capital Market Sector
+_________________________________________________________________________________________________________________________________________
 
 
 ## Bivariate Analysis
