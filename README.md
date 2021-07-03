@@ -156,3 +156,17 @@ ________________________________________________________________________________
 
 Banks with LOW NNPA ratio in PRIVATE SECTOR BANK GROUP has significant increase in NNPA ratio with increase in loan to Real Estate sector. 
 It means for these banks there are more loan default cases from Real Estate.
+_________________________________________________________________________________________________________________________________________
+#### Bank group and NNPA ratio bracket wise variation of NNPA ratio with Repo Rate
+
+![6](https://user-images.githubusercontent.com/76644910/124343953-2a661f80-dbed-11eb-94de-2e30408d558b.png)
+
+Banks falling in HIGH NNPA ratio bracket in PUBLIC SECTOR BANK GROUP has significant decreasing trend in NNPA ratio with increase in repo rate while for banks falling in MID NNPA ratio bracket in the same group NNPA ratio increases with increase in repo rate
+_________________________________________________________________________________________________________________________________________
+#### Bank group and NNPA ratio bracket wise variation of NNPA ratio with Consumer Price Index
+
+![7](https://user-images.githubusercontent.com/76644910/124344172-79f91b00-dbee-11eb-9dfd-109a4e4b47a6.png)
+
+For every bank NNPA ratio has decreasing trend with increase in consumer price index specially for banks with HIGH NNPA ratio in PUBLIC SECTOR BANK group.
+
+
