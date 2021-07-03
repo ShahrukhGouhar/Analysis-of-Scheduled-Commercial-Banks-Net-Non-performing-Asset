@@ -46,7 +46,7 @@ ________________________________________________________________________________
  ![3](https://user-images.githubusercontent.com/76644910/124307317-4b932580-db85-11eb-9dce-fc75e9084284.png)
 
  V6(Ratio of deposits to total liabilities),V10(Ratio of secured advances to total advances), 
- V22(Return on assets),V23(Return on equity), capitalMarketSector_adv, realEstateSector_adv are heavily skewd data.
+ V22(Return on assets),V23(Return on equity), capitalMarketSector_adv, realEstateSector_adv are heavily skewed data.
  
  Target variable V36(Net NPA ratio) is also right skewed
 _________________________________________________________________________________________________________________________________________
