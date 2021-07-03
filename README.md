@@ -106,7 +106,7 @@ ________________________________________________________________________________
 #### Public Sector Banks variation of NNPA ratio
 ![4](https://user-images.githubusercontent.com/76644910/124342108-1fa48e00-dbdf-11eb-9e28-ff7a41dc5353.png)
 
-Over the year Public Sector Banks have increasing trend of NNPA ratio. From 2015 till 2018 increament is very sharp. After that NNPA ratio has decreased but still they all are in HIGH NNPA ratio bracket
+Over the year Public Sector Banks have increasing trend of NNPA ratio. From 2015 till 2018 increment is very sharp. After that NNPA ratio has decreased but still they all are in HIGH NNPA ratio bracket
 _________________________________________________________________________________________________________________________________________
 #### Private Sector Banks variation of NNPA ratio
 ![5](https://user-images.githubusercontent.com/76644910/124342339-d05f5d00-dbe0-11eb-9ff1-e5fed3cfb30c.png)
