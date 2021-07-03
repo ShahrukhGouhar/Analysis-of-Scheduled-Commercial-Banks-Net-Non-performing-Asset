@@ -127,7 +127,7 @@ In the MID range NNPA ratio it has slight increasing trend for PUBLIC SECTOR BAN
 
 In the LOW range NNPA ratio it has increasing trend for PUBLIC SECTOR BANKS while slight decreasing for PRIVATE SECTOR BANKS.
 
-Over all if PUBLIC SECTOR BANKS lend more trem loans then there NNPA will increase only in LOW range
+Over all if PUBLIC SECTOR BANKS lend more term loans then there NNPA will increase only in LOW range
 _________________________________________________________________________________________________________________________________________
 #### Bank group and NNPA ratio bracket wise variation of NNPA ratio with Priority Sector advances to total advances ratio
 
