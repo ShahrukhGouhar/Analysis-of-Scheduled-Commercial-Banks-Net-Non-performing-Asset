@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 ![2](https://user-images.githubusercontent.com/76644910/124307252-2d2d2a00-db85-11eb-80e9-97eddd7100e2.png)
 
- 37.38% nbanks have high NNPA ratio, 24.61% banks have midium NNPA ratio, 38.01% banks low NNPA ratio
+ 37.38% banks have high NNPA ratio, 24.61% banks have medium NNPA ratio, 38.01% banks low NNPA ratio
 _________________________________________________________________________________________________________________________________________
 
  ![3](https://user-images.githubusercontent.com/76644910/124307317-4b932580-db85-11eb-9dce-fc75e9084284.png)
