@@ -1,11 +1,11 @@
 # Analysis-of-Scheduled-Commercial-Banks-Net-Non-performing-Asset
 Analysis of Scheduled Commercial Banks Net Non performing Asset based on Selected Ratios
 
-Definition of 'Non Performing Assets'
+**Definition of 'Non Performing Assets'**
 
-Definition: A non performing asset (NPA) is a loan or advance for which the principal or interest payment remained overdue for a period of 90 days.
+**Definition:** A non performing asset (NPA) is a loan or advance for which the principal or interest payment remained overdue for a period of 90 days.
 
-Description: Banks are required to classify NPAs further into Substandard, Doubtful and Loss assets.
+**Description:** Banks are required to classify NPAs further into Substandard, Doubtful and Loss assets.
 
   1.  Substandard assets: Assets which has remained NPA for a period less than or equal to 12 months.
 
@@ -13,9 +13,12 @@ Description: Banks are required to classify NPAs further into Substandard, Doubt
 
   3.  Loss assets: As per RBI, “Loss asset is considered uncollectible and of such little value that its continuance as a bankable asset is not warranted, although there may be          some salvage or recovery value.”
 
-Motivation:
+**MOTIVATION:** 
+Non-performing assets are a reflection of the bank’s overall efficiency while performing its business of converting deposits into loans and recovering these loans. Non-recovery or partial recovery of loans has an impact on the bank’s balance sheet and income statement items in the form of reduction in interest earned on loan assets, increase in provision on NPAs, increase in capital requirement and lower profits. Hence, rising NPAs are a concern for a bank and determinants of NPAs should be identified prior to loans turning into NPAs.
 
-Data Source: 
+**OBJECTIVE:** To find Association of NNPA ratio with different ratios such as operational capability, solvency and profitability of Schedule Commercial Banks.
+
+**Data Source:**
 
   https://dbie.rbi.org.in/DBIE/dbie.rbi?site=publications
 
@@ -28,9 +31,9 @@ Data Source:
   The NNPA ratio was divided into 3 brackets Low(<1%), Midium(1%-2%) and high(>2%)
 _________________________________________________________________________________________________________________________________________
   
-  ## Univariate Analysis
+ ## Univariate Analysis
   
-  ![1](https://user-images.githubusercontent.com/76644910/124307118-fa833180-db84-11eb-864a-589fa21a727d.png)
+![1](https://user-images.githubusercontent.com/76644910/124307118-fa833180-db84-11eb-864a-589fa21a727d.png)
 
  53.31% banks in our dataset are Public Sector banks and 46.69% are Private Sector Banks
 _________________________________________________________________________________________________________________________________________
@@ -40,14 +43,15 @@ ________________________________________________________________________________
  37.38% nbanks have high NNPA ratio, 24.61% banks have midium NNPA ratio, 38.01% banks low NNPA ratio
 _________________________________________________________________________________________________________________________________________
 
-  ![3](https://user-images.githubusercontent.com/76644910/124307317-4b932580-db85-11eb-9dce-fc75e9084284.png)
+ ![3](https://user-images.githubusercontent.com/76644910/124307317-4b932580-db85-11eb-9dce-fc75e9084284.png)
 
- V6,V10, V22,V23, capitalMarketSector_adv, realEstateSector_adv are heavily skewd data.
+ V6(Ratio of deposits to total liabilities),V10(Ratio of secured advances to total advances), 
+ V22(Return on assets),V23(Return on equity), capitalMarketSector_adv, realEstateSector_adv are heavily skewd data.
  
- Target variable V36 is also right skewed
+ Target variable V36(Net NPA ratio) is also right skewed
 _________________________________________________________________________________________________________________________________________
 
-  ![4](https://user-images.githubusercontent.com/76644910/124307475-809f7800-db85-11eb-8d30-960e98865255.png)
+ ![4](https://user-images.githubusercontent.com/76644910/124307475-809f7800-db85-11eb-8d30-960e98865255.png)
 
 'V12'(Ratio of interest income to total assets),
 
@@ -58,7 +62,7 @@ ________________________________________________________________________________
  Median of interest income is thrice the median of non interest income
 _________________________________________________________________________________________________________________________________________
 
-  ![5](https://user-images.githubusercontent.com/76644910/124307605-b0e71680-db85-11eb-8dd3-a378bf01e1c6.png)
+ ![5](https://user-images.githubusercontent.com/76644910/124307605-b0e71680-db85-11eb-8dd3-a378bf01e1c6.png)
 
 'V27'(Return on Advances),
 
@@ -83,23 +87,25 @@ ________________________________________________________________________________
 
 ## Bivariate Analysis
 #### Year wise box plot of NNPA ratio for Public Sector and Private Sector Banks
-  ![1](https://user-images.githubusercontent.com/76644910/124308011-3ec30180-db86-11eb-882e-8925874a0256.png)
+![1](https://user-images.githubusercontent.com/76644910/124308011-3ec30180-db86-11eb-882e-8925874a0256.png)
 
 Median and range of NNPA ratio for PUBLIC SECTOR BANK is increasing with year while for PRIVATE SECTOR BANKS range has increased but is almost same over the years.
 PUBLIC SECTOR BANKS NNPA ratio are in in higher range compared to PRIVATE SECTOR BANKS
 
 _________________________________________________________________________________________________________________________________________
 #### No. of banks falling under different NNPA ratio bracket for Public Sector banks and Private Sector Banks
-  ![2](https://user-images.githubusercontent.com/76644910/124308088-5dc19380-db86-11eb-8a62-8cdc1db4a0ff.png)
+![2](https://user-images.githubusercontent.com/76644910/124308088-5dc19380-db86-11eb-8a62-8cdc1db4a0ff.png)
 
 PUBLIC SECTOR BANK GROUP has more banks with HIGH NNPA ratio while PRIVATE SECTOR group has more bank with LOW NNPA ratio
 _________________________________________________________________________________________________________________________________________
 #### NNPA ratio bracket wise comparison of Public Sector and Private Sector Bank
-  ![3](https://user-images.githubusercontent.com/76644910/124308149-75008100-db86-11eb-9da2-4ccf76bc3679.png)
+![3](https://user-images.githubusercontent.com/76644910/124308149-75008100-db86-11eb-9da2-4ccf76bc3679.png)
+
 Comparing banks with high NNPA ratio for both PUBLIC and PRIVATE SECTOR GROUP it can be seen median and range of NNPA ratio for banks in PUBLIC SECTOR BANK GROUP is much higher as compared to banks in PRIVATE SECTOR BANK GROUP
 _________________________________________________________________________________________________________________________________________
 #### Public Sector Banks variation of NNPA ratio
 ![4](https://user-images.githubusercontent.com/76644910/124342108-1fa48e00-dbdf-11eb-9e28-ff7a41dc5353.png)
+
 Over the year Public Sector Banks have increasing trend of NNPA ratio. From 2015 till 2018 increament is very sharp. After that NNPA ratio has decreased but still they all are in HIGH NNPA ratio bracket
 _________________________________________________________________________________________________________________________________________
 #### Private Sector Banks variation of NNPA ratio
@@ -107,7 +113,7 @@ ________________________________________________________________________________
 
 Unlike Public Sector Banks, Private Sector Banks NNPA ratio has no increasing trend. Also for most of the Private Sector Banks their NNPA ratio fall under MID or LOW NNPA ratio bracket.
 _________________________________________________________________________________________________________________________________________
-Conclusion:
+**Conclusion:**
 Recovery of loan in Private Sector Banks in better as compared to Public Sector Banks
 _________________________________________________________________________________________________________________________________________
 
