@@ -205,6 +205,47 @@ ________________________________________________________________________________
 
 ![2](https://user-images.githubusercontent.com/76644910/124344992-9481c300-dbf3-11eb-859b-a3b336556706.JPG)
 
+_________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________
 
+## MODEL BUILDING
+Lineaer Regression was applied to understand association of NNPA ratio with different ratios of Schedule Commercial Banks such as
+unsecured advances to total advances ratio, Cash deposit ratio, consumer price index, etc
+We added lagged NNPA ratio column which contains previous year NNPA ratio and used it as predictor variable.
+
+NNPA ratio bracket column and Bank Group column were categorical variable so we did one hot encoding for these variables.
+
+We computed Adjusted_R2 which was obtained as 0.792 which means 79 % of the variation of target column expense can be well explained by one of the predictor variables.
+
+We then use the stats model to find a summary of the linear regression model and the following are found.
+Using Variance Inflation factor and stats model summary we removed those variable which were not significant or causing high multi collinearity.
+
+Final Output is presented below
+
+__1. Regression Summary
+
+![1](https://user-images.githubusercontent.com/76644910/124347065-f6482a00-dbff-11eb-9aeb-56f380d59855.JPG)
+
+_________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________
+
+__2. VIF summary
+
+![2](https://user-images.githubusercontent.com/76644910/124347084-2394d800-dc00-11eb-8d5a-149176e1db6f.JPG)
+
+_________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________
+
+__3. Residual Plot
+
+![3](https://user-images.githubusercontent.com/76644910/124347108-50e18600-dc00-11eb-8063-941c974c8106.png)
+_________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________
+
+__4. qq- plot
+
+![4](https://user-images.githubusercontent.com/76644910/124347114-5d65de80-dc00-11eb-9953-f9beb9702936.png)
+_________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________
 
 
