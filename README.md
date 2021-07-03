@@ -80,15 +80,28 @@ Overall banks give more secured loans and least loan to priority sectors
 Median and range of NNPA ratio for PUBLIC SECTOR BANK is increasing with year while for PRIVATE SECTOR BANKS range has increased but is almost same over the years.
 PUBLIC SECTOR BANKS NNPA ratio are in in higher range compared to PRIVATE SECTOR BANKS
 
-
+_________________________________________________________________________________________________________________________________________
 #### No. of banks falling under different NNPA ratio bracket for Public Sector banks and Private Sector Banks
   ![2](https://user-images.githubusercontent.com/76644910/124308088-5dc19380-db86-11eb-8a62-8cdc1db4a0ff.png)
 
 PUBLIC SECTOR BANK GROUP has more banks with HIGH NNPA ratio while PRIVATE SECTOR group has more bank with LOW NNPA ratio
-
-
+_________________________________________________________________________________________________________________________________________
+#### NNPA ratio bracket wise comparison of Public Sector and Private Sector Bank
   ![3](https://user-images.githubusercontent.com/76644910/124308149-75008100-db86-11eb-9da2-4ccf76bc3679.png)
 Comparing banks with high NNPA ratio for both PUBLIC and PRIVATE SECTOR GROUP it can be seen median and range of NNPA ratio for banks in PUBLIC SECTOR BANK GROUP is much higher as compared to banks in PRIVATE SECTOR BANK GROUP
-\
-\
-\
+_________________________________________________________________________________________________________________________________________
+#### Public Sector Banks variation of NNPA ratio
+![4](https://user-images.githubusercontent.com/76644910/124342108-1fa48e00-dbdf-11eb-9e28-ff7a41dc5353.png)
+Over the year Public Sector Banks have increasing trend of NNPA ratio. From 2015 till 2018 increament is very sharp. After that NNPA ratio has decreased but still they all are in HIGH NNPA ratio bracket
+_________________________________________________________________________________________________________________________________________
+#### Private Sector Banks variation of NNPA ratio
+![5](https://user-images.githubusercontent.com/76644910/124342339-d05f5d00-dbe0-11eb-9ff1-e5fed3cfb30c.png)
+
+Unlike Public Sector Banks, Private Sector Banks NNPA ratio has no increasing trend. Also for most of the Private Sector Banks their NNPA ratio fall under MID or LOW NNPA ratio bracket.
+_________________________________________________________________________________________________________________________________________
+Conclusion:
+Recovery of loan in Private Sector Banks in better as compared to Public Sector Banks
+_________________________________________________________________________________________________________________________________________
+
+## Multivariate Analysis
+
