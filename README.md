@@ -112,4 +112,47 @@ Recovery of loan in Private Sector Banks in better as compared to Public Sector 
 _________________________________________________________________________________________________________________________________________
 
 ## Multivariate Analysis
+#### Bank group and NNPA ratio bracket wise variation of NNPA ratio with Term loan to total advances ratio
+![1](https://user-images.githubusercontent.com/76644910/124343229-99d91080-dbe7-11eb-8bd3-e36ff7872b19.png)
 
+Term loan to total advance ratio has no trend with HIGH NNPA ratio for both PUBLIC and PRIVATE SECTOR BANK GROUP
+
+In the MID range NNPA ratio it has slight increasing trend for PUBLIC SECTOR BANKS while slight decreasing for PRIVATE SECTOR BANKS.
+
+In the LOW range NNPA ratio it has increasing trend for PUBLIC SECTOR BANKS while slight decreasing for PRIVATE SECTOR BANKS.
+
+Over all if PUBLIC SECTOR BANKS lend more trem loans then there NNPA will increase only in LOW range
+_________________________________________________________________________________________________________________________________________
+#### Bank group and NNPA ratio bracket wise variation of NNPA ratio with Priority Sector advances to total advances ratio
+
+![2](https://user-images.githubusercontent.com/76644910/124343451-2fc16b00-dbe9-11eb-84d4-7d696f3ac798.png)
+
+
+NNPA ratio for banks with HIGH NNPA ratio in PUBLIC SECTOR BANK group increases quite significantly with increase in loan to priority sectors. This means for them more loan get default in priority sector.
+
+NNPA ratio for banks with MID NNPA ratio in PUBLIC SECTOR BANK group decreases quite significantly with increase in loan to priority sectors. This means these banks are efficient in recovering loan/NPA from priority sector.
+
+For PRIVATE SECTOR BANK group there is not much trend between NNPA ratio and loan to priority sector.
+_________________________________________________________________________________________________________________________________________
+#### Bank group and NNPA ratio bracket wise variation of NNPA ratio with Unsecured advances to total advances ratio
+
+![3](https://user-images.githubusercontent.com/76644910/124343598-69df3c80-dbea-11eb-88cc-bfd61802f713.png)
+
+NNPA ratio for banks with HIGH NNPA ratio in both PRIVATE and PUBLIC SECTOR BANK group and LOW NNPA ratio in PRIVATE SECTOR BANK group decreases moderately with increase in unsecured loans.
+
+This means for these banks loan recovery is good for unsecured loans. It also indicates bank put more effort and resources in recovering unsecured loan.
+_________________________________________________________________________________________________________________________________________
+#### Bank group and NNPA ratio bracket wise variation of NNPA ratio with Capital Market Sector advances to total advances ratio
+
+![4](https://user-images.githubusercontent.com/76644910/124343710-5aacbe80-dbeb-11eb-91f5-43f4704a218e.png)
+
+Banks with LOW NNPA ratio in PRIVATE SECTOR BANK GROUP has significant decrease in NNPA ratio with increase in loan to Capital market sector. 
+It means for these banks loan recovery from this sector is good. For rest of the categories there is not much trend.
+
+_________________________________________________________________________________________________________________________________________
+#### Bank group and NNPA ratio bracket wise variation of NNPA ratio with Real Estate Sector advances to total advances ratio
+
+![5](https://user-images.githubusercontent.com/76644910/124343848-4c12d700-dbec-11eb-94d2-d1d8d5364b8e.png)
+
+Banks with LOW NNPA ratio in PRIVATE SECTOR BANK GROUP has significant increase in NNPA ratio with increase in loan to Real Estate sector. 
+It means for these banks there are more loan default cases from Real Estate.
