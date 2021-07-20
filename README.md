@@ -29,6 +29,13 @@ Non-performing assets are a reflection of the bank’s overall efficiency while 
   Data Set contain 37 columns and 1422 rows containing data of Public Sector, Private Sector, Foreign Bank Group, Small Finance Bank and Paytm Banks data from the year 2005 to     2020
   Analysis was focused on the data ranging from year 2007 to 2020 of Public Sector and  Private Sector bank group. Additionaly we added bank group, cpi and repo rate data.
   The NNPA ratio was divided into 3 brackets Low(<1%), Medium(1%-2%) and high(>2%)
+  
+**Column name and there meaning**
+
+![image](https://user-images.githubusercontent.com/76644910/126267393-6ff6a38c-0835-44b7-a6ca-afbd2c54b3de.png)
+
+
+
 _________________________________________________________________________________________________________________________________________
   
  ## Univariate Analysis
@@ -194,41 +201,22 @@ ________________________________________________________________________________
 
 ## HYPOTHESIS TESTING
 
-![1](https://user-images.githubusercontent.com/76644910/124776738-4eaf5c80-df5d-11eb-8e10-7ea3cb86ef0d.JPG)
-
-![2](https://user-images.githubusercontent.com/76644910/124776782-57079780-df5d-11eb-8f51-cdf030200e4c.JPG)
-
-![3](https://user-images.githubusercontent.com/76644910/124776817-5cfd7880-df5d-11eb-8f6d-91f0a3dbedfa.JPG)
-
-![4](https://user-images.githubusercontent.com/76644910/124776861-6686e080-df5d-11eb-9508-0eb2938387eb.JPG)
-
+![image](https://user-images.githubusercontent.com/76644910/126267994-5bf25329-4f1f-4e5e-b0f3-e66711b07e06.png)
 
 _________________________________________________________________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________
 
-![1](https://user-images.githubusercontent.com/76644910/124776926-77cfed00-df5d-11eb-887f-29a82eabe3d0.JPG)
-
-
-![2](https://user-images.githubusercontent.com/76644910/124776953-7dc5ce00-df5d-11eb-8acd-86bda9f777ea.JPG)
-
-
-![3](https://user-images.githubusercontent.com/76644910/124776993-85857280-df5d-11eb-9d65-79b54e158aca.JPG)
+![image](https://user-images.githubusercontent.com/76644910/126268207-b41a334c-88fc-4994-a327-c00cc4a45242.png)
 
 _________________________________________________________________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________
 
-![1](https://user-images.githubusercontent.com/76644910/124777075-90d89e00-df5d-11eb-9366-e7196620575c.JPG)
-
-![2](https://user-images.githubusercontent.com/76644910/124777101-97671580-df5d-11eb-9bf7-d3462eba199d.JPG)
-
-![3](https://user-images.githubusercontent.com/76644910/124777119-9afa9c80-df5d-11eb-81aa-4f0467f76a6b.JPG)
+![image](https://user-images.githubusercontent.com/76644910/126268245-afe75c1d-320b-4dd4-b354-06576e5da9b4.png)
 
 _________________________________________________________________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________
 
-![1](https://user-images.githubusercontent.com/76644910/124777163-a4840480-df5d-11eb-8b92-c5807b3bfa74.JPG)
-
-![2](https://user-images.githubusercontent.com/76644910/124777187-a8178b80-df5d-11eb-96f8-48fef15986af.JPG)
+![image](https://user-images.githubusercontent.com/76644910/126268290-70c775ac-f382-48a5-8677-59b82c713582.png)
 
 _________________________________________________________________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________
