@@ -53,10 +53,10 @@ ________________________________________________________________________________
 ![3](https://user-images.githubusercontent.com/76644910/124775633-6803d900-df5c-11eb-9bc6-d19c166a9ae4.png)
 
 
- V6(Ratio of deposits to total liabilities),V10(Ratio of secured advances to total advances), 
- V22(Return on assets),V23(Return on equity), capitalMarketSector_adv, realEstateSector_adv are heavily skewed data.
- 
- Target variable V36(Net NPA ratio) is also right skewed
+V6 (Ratio of deposits to total liabilities), V10 (Ratio of secured advances to total advances), V22 (Return on assets), V23 (Return on equity), capitalMarketSector_adv, realEstateSector_adv are heavily skewed data.
+
+Target variable V36 (Net NPA ratio) is also right skewed
+
 _________________________________________________________________________________________________________________________________________
 
 ![4](https://user-images.githubusercontent.com/76644910/124775667-6fc37d80-df5c-11eb-95c5-feecddf50388.png)
@@ -68,7 +68,8 @@ ________________________________________________________________________________
 
 'V14'(Ratio of non-interest income to total assets)
 
- Median of interest income is thrice the median of non interest income
+ Median of interest income is thrice the median of non-interest income.
+
 _________________________________________________________________________________________________________________________________________
 
 ![5](https://user-images.githubusercontent.com/76644910/124775707-78b44f00-df5c-11eb-906c-9fb173bc93fb.png)
@@ -78,7 +79,8 @@ ________________________________________________________________________________
 
 'V28'(Return on investments),
 
- Clearly return on advances has higher range compared to return on investment
+Clearly return on advances has higher range compared to return on investment.
+
 _________________________________________________________________________________________________________________________________________
 
 ![6](https://user-images.githubusercontent.com/76644910/124775741-7fdb5d00-df5c-11eb-8c55-6d2a9fe61251.png)
@@ -90,9 +92,10 @@ ________________________________________________________________________________
 
 'capitalMarketSector_adv'(Ratio of Capital Market Sector advances to total advances),
 
-'realEstateSector_adv'(Ratio of Real Estate Sector advances to total advances).
+'realEstateSector_adv'(Ratio of Real Estate Sector advances to total advances)
 
- Overall banks give more Real Estate Sector and least to Capital Market Sector
+Overall banks give more Real Estate Sector and least to Capital Market Sector.
+
 _________________________________________________________________________________________________________________________________________
 
 
@@ -102,26 +105,27 @@ ________________________________________________________________________________
 
 
 Median and range of NNPA ratio for PUBLIC SECTOR BANK is increasing with year while for PRIVATE SECTOR BANKS range has increased but is almost same over the years.
-PUBLIC SECTOR BANKS NNPA ratio are in in higher range compared to PRIVATE SECTOR BANKS
+PUBLIC SECTOR BANKS NNPA ratios are in in higher range compared to PRIVATE SECTOR BANKS.
 
 _________________________________________________________________________________________________________________________________________
 #### No. of banks falling under different NNPA ratio bracket for Public Sector banks and Private Sector Banks
 ![2](https://user-images.githubusercontent.com/76644910/124775820-91246980-df5c-11eb-9d8e-70afd314eb01.png)
 
 
-PUBLIC SECTOR BANK GROUP has more banks with HIGH NNPA ratio while PRIVATE SECTOR group has more bank with LOW NNPA ratio
+PUBLIC SECTOR BANK GROUP has more banks with HIGH NNPA ratio while PRIVATE SECTOR group has more banks with LOW NNPA ratio.
 _________________________________________________________________________________________________________________________________________
 #### NNPA ratio bracket wise comparison of Public Sector and Private Sector Bank
 ![3](https://user-images.githubusercontent.com/76644910/124775866-98e40e00-df5c-11eb-8d1c-e16a16afdb3f.png)
 
 
-Comparing banks with high NNPA ratio for both PUBLIC and PRIVATE SECTOR GROUP it can be seen median and range of NNPA ratio for banks in PUBLIC SECTOR BANK GROUP is much higher as compared to banks in PRIVATE SECTOR BANK GROUP
+Comparing banks with high NNPA ratio for both PUBLIC and PRIVATE SECTOR GROUP it can be seen median and range of NNPA ratio for banks in PUBLIC SECTOR BANK GROUP is much higher as compared to banks in PRIVATE SECTOR BANK GROUP.
 _________________________________________________________________________________________________________________________________________
 #### Public Sector Banks variation of NNPA ratio
 ![4](https://user-images.githubusercontent.com/76644910/124775897-a00b1c00-df5c-11eb-933b-ab980e622be8.png)
 
 
-Over the year Public Sector Banks have increasing trend of NNPA ratio. From 2015 till 2018 increment is very sharp. After that NNPA ratio has decreased but still they all are in HIGH NNPA ratio bracket
+Over the year Public Sector Banks have increasing trend of NNPA ratio. From 2015 till 2018 increment is very sharp. 
+After that NNPA ratio has decreased but still they all are in HIGH NNPA ratio bracket.
 _________________________________________________________________________________________________________________________________________
 #### Private Sector Banks variation of NNPA ratio
 ![5](https://user-images.githubusercontent.com/76644910/124775931-a8fbed80-df5c-11eb-8b37-d5288987a45e.png)
@@ -144,27 +148,33 @@ In the MID range NNPA ratio it has slight increasing trend for PUBLIC SECTOR BAN
 
 In the LOW range NNPA ratio it has increasing trend for PUBLIC SECTOR BANKS while slight decreasing for PRIVATE SECTOR BANKS.
 
-Over all if PUBLIC SECTOR BANKS lend more term loans then there NNPA will increase only in LOW range
+Over all if PUBLIC SECTOR BANKS lend more term loans then there NNPA will increase only in LOW range.
+
 _________________________________________________________________________________________________________________________________________
 #### Bank group and NNPA ratio bracket wise variation of NNPA ratio with Priority Sector advances to total advances ratio
 
 ![2](https://user-images.githubusercontent.com/76644910/124776030-bd3fea80-df5c-11eb-9319-7b6430e6037a.png)
 
 
-NNPA ratio for banks with HIGH NNPA ratio in PUBLIC SECTOR BANK group increases quite significantly with increase in loan to priority sectors. This means for them more loan get default in priority sector.
+NNPA ratio for banks with HIGH NNPA ratio in PUBLIC SECTOR BANK group increases quite significantly with increase in loan to priority sectors. 
+This means for them more loan get default in priority sector.
 
-NNPA ratio for banks with MID NNPA ratio in PUBLIC SECTOR BANK group decreases quite significantly with increase in loan to priority sectors. This means these banks are efficient in recovering loan/NPA from priority sector.
+NNPA ratio for banks with MID NNPA ratio in PUBLIC SECTOR BANK group decreases quite significantly with increase in loan to priority sectors. 
+This means these banks are efficient in recovering loan/NPA from priority sector.
 
 For PRIVATE SECTOR BANK group there is not much trend between NNPA ratio and loan to priority sector.
+
 _________________________________________________________________________________________________________________________________________
 #### Bank group and NNPA ratio bracket wise variation of NNPA ratio with Unsecured advances to total advances ratio
 
 ![3](https://user-images.githubusercontent.com/76644910/124776073-c761e900-df5c-11eb-9bb6-95ad31314d82.png)
 
 
-NNPA ratio for banks with HIGH NNPA ratio in both PRIVATE and PUBLIC SECTOR BANK group and LOW NNPA ratio in PRIVATE SECTOR BANK group decreases moderately with increase in unsecured loans.
+For banks with HIGH NNPA ratio in both PRIVATE and PUBLIC SECTOR BANK group and LOW NNPA ratio in PRIVATE SECTOR BANK group
+NNPA ratio decreases moderately with increase in unsecured loans.
 
 This means for these banks loan recovery is good for unsecured loans. It also indicates bank put more effort and resources in recovering unsecured loan.
+
 _________________________________________________________________________________________________________________________________________
 #### Bank group and NNPA ratio bracket wise variation of NNPA ratio with Capital Market Sector advances to total advances ratio
 
@@ -180,22 +190,23 @@ ________________________________________________________________________________
 ![5](https://user-images.githubusercontent.com/76644910/124776162-d8125f00-df5c-11eb-930e-ddf8297456db.png)
 
 
-Banks with LOW NNPA ratio in PRIVATE SECTOR BANK GROUP has significant increase in NNPA ratio with increase in loan to Real Estate sector. 
-It means for these banks there are more loan default cases from Real Estate.
+BBanks with LOW NNPA ratio in PRIVATE SECTOR BANK GROUP has significant increase in NNPA ratio with increase in loan to Real Estate sector. 
+It means for these banks there are more loan default cases from Real Estates.
 _________________________________________________________________________________________________________________________________________
 #### Bank group and NNPA ratio bracket wise variation of NNPA ratio with Repo Rate
 
 ![6](https://user-images.githubusercontent.com/76644910/124776190-de084000-df5c-11eb-8070-e2a9abef42ba.png)
 
 
-Banks falling in HIGH NNPA ratio bracket in PUBLIC SECTOR BANK GROUP has significant decreasing trend in NNPA ratio with increase in repo rate while for banks falling in MID NNPA ratio bracket in the same group NNPA ratio increases with increase in repo rate
+Banks falling in HIGH NNPA ratio bracket in PUBLIC SECTOR BANK GROUP has significant decreasing trend in NNPA ratio 
+with increase in repo rate while for banks falling in MID NNPA ratio bracket in the same group NNPA ratio increases with increase in repo rate.
 _________________________________________________________________________________________________________________________________________
 #### Bank group and NNPA ratio bracket wise variation of NNPA ratio with Consumer Price Index
 
 ![7](https://user-images.githubusercontent.com/76644910/124776223-e496b780-df5c-11eb-9e25-5e9753b904ba.png)
 
 
-For every bank NNPA ratio has decreasing trend with increase in consumer price index specially for banks with HIGH NNPA ratio in PUBLIC SECTOR BANK group.
+For every bank NNPA ratio has decreasing trend with increase in consumer price index especially for banks with HIGH NNPA ratio in PUBLIC SECTOR BANK group.
 
 _________________________________________________________________________________________________________________________________________
 
@@ -222,8 +233,9 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________
 
 ## MODEL BUILDING
-Lineaer Regression was applied to understand association of NNPA ratio with different ratios of Schedule Commercial Banks such as
-unsecured advances to total advances ratio, Cash deposit ratio, consumer price index, etc
+Linear Regression was applied to understand association of NNPA ratio with different ratios of Schedule Commercial Banks such as
+Unsecured advances to total advances ratio, Cash deposit ratio, consumer price index, etc.
+
 We added lagged NNPA ratio column which contains previous year NNPA ratio and used it as predictor variable.
 
 NNPA ratio bracket column and Bank Group column were categorical variable so we did one hot encoding for these variables.
@@ -231,11 +243,12 @@ NNPA ratio bracket column and Bank Group column were categorical variable so we 
 We computed Adjusted_R2 which was obtained as 0.792 which means 79 % of the variation of target column expense can be well explained by one of the predictor variables.
 
 We then use the stats model to find a summary of the linear regression model and the following are found.
-Using Variance Inflation factor and stats model summary we removed those variable which were not significant or causing high multi collinearity.
+Using Variance Inflation factor and stats model summary we removed those variable which were not significant or causing high multi-colinearity.
 
 Final Output is presented below
 
 __1. Regression Summary
+
 
 ![1](https://user-images.githubusercontent.com/76644910/124777258-b4034d80-df5d-11eb-96f7-2237054c6eaf.JPG)
 
