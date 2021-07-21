@@ -19,7 +19,8 @@ Analysis of Scheduled Commercial Banks Net Non performing Asset based on Selecte
 **MOTIVATION:** 
 Non-performing assets are a reflection of the bank’s overall efficiency while performing its business of converting deposits into loans and recovering these loans. Non-recovery or partial recovery of loans has an impact on the bank’s balance sheet and income statement items in the form of reduction in interest earned on loan assets, increase in provision on NPAs, increase in capital requirement and lower profits. Hence, rising NPAs are a concern for a bank and determinants of NPAs should be identified prior to loans turning into NPAs.
 
-**OBJECTIVE:** To find Association of NNPA ratio with different ratios such as operational capability, solvency and profitability of Schedule Commercial Banks.
+**OBJECTIVE:** To find Association of NNPA ratio with different ratios such as operational capability and profitability of Schedule Commercial Banks published in
+RBI website and some other factors like CPI, repo rate and sector wise advances.
 
 **Data Source:**
 
