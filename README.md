@@ -1,3 +1,6 @@
+![Screenshot_2020-12-29_at_11 48_1200x768](https://user-images.githubusercontent.com/76644910/126503332-ef32a5be-93f4-4fd9-b942-7ccf190a0b64.jpg)
+
+
 # Analysis-of-Scheduled-Commercial-Banks-Net-Non-performing-Asset
 Analysis of Scheduled Commercial Banks Net Non performing Asset based on Selected Ratios
 
