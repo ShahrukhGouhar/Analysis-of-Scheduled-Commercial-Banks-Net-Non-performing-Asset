@@ -242,11 +242,12 @@ Unsecured advances to total advances ratio, Cash deposit ratio, consumer price i
 
 We added lagged NNPA ratio column which contains previous year NNPA ratio and used it as predictor variable.
 
-NNPA ratio bracket column and Bank Group column were categorical variable so we did one hot encoding for these variables.
+Bank Group is categorical variable so we did one hot encoding for these variables.
 
-We computed Adjusted_R2 which was obtained as 0.792 which means 79 % of the variation of target column expense can be well explained by one of the predictor variables.
+We then use the stats model to find a summary of the linear regression model.
 
-We then use the stats model to find a summary of the linear regression model and the following are found.
+Adjusted_R2 was obtained as 0.792 which means 79 % of the variation of target column expense can be well explained by one of the predictor variables.
+
 Using Variance Inflation factor and stats model summary we removed those variable which were not significant or causing high multi-colinearity.
 
 Final Output is presented below
