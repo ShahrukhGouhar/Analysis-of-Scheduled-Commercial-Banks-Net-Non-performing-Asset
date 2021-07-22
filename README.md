@@ -244,11 +244,11 @@ We added lagged NNPA ratio column which contains previous year NNPA ratio and us
 
 Bank Group is categorical variable so we did one hot encoding for these variables.
 
-We then use the stats model to find a summary of the linear regression model.
+We used stats model to find a summary of the linear regression.
 
 Adjusted_R2 was obtained as 0.792 which means 79 % of the variation of target column expense can be well explained by one of the predictor variables.
 
-Using Variance Inflation factor and stats model summary we removed those variable which were not significant or causing high multi-colinearity.
+Using Variance Inflation factor and stats model summary we removed those variable which were not significant or causing high multi collinearity.
 
 Final Output is presented below
 
