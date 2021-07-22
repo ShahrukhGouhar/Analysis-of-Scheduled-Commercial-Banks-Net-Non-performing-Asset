@@ -246,7 +246,7 @@ Bank Group is categorical variable so we did one hot encoding for these variable
 
 We used stats model to find a summary of the linear regression.
 
-Adjusted_R2 was obtained as 0.792 which means 79 % of the variation of target column expense can be well explained by one of the predictor variables.
+Adjusted_R2 was obtained as 0.788 which means 78.8 % of the variation of target column expense can be well explained by one of the predictor variables.
 
 Using Variance Inflation factor and stats model summary we removed those variable which were not significant or causing high multi collinearity.
 
