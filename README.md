@@ -30,7 +30,7 @@ RBI website and some other factors like CPI, repo rate and sector wise advances.
              
   https://www.bankbazaar.com/finance-tools/emi-calculator/current-rbi-bank-interest-rates.html
   
-  Data Set contain 37 columns and 1422 rows containing data of Public Sector, Private Sector, Foreign Bank Group, Small Finance Bank and Paytm Banks data from the year 2005 to     2020
+  Data Set contain 37 columns and 1422 rows containing data of Public Sector, Private Sector, Foreign Bank Group, Small Finance Bank and Paytm Banks data from the year 2005 to     2020.
   Analysis was focused on the data ranging from year 2007 to 2020 of Public Sector and  Private Sector bank group. Additionaly we added bank group, cpi and repo rate data.
   The NNPA ratio was divided into 3 brackets Low(<1%), Medium(1%-2%) and high(>2%)
   
